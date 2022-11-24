@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-11-24T23:46:58.4217040+09:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>B3M1100_scale_step\OldVersions\サーボモータB3M-SC-1170-AB3M1100_scale.0003.ipt</FileName>
+      <SHA1>DDCE625A84214B6CA04A4DAE942A076E98054A12</SHA1>
+      <FileSize>700416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-22T09:16:49.9580000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>B3M1100_scale_step\02137_AluminumFreeHornWithBearing_B3M_6000.stp</FileName>
+      <SHA1>96B52B7E2849DE9C1E1D02B3BFB57914A8300638</SHA1>
+      <FileSize>37212</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-10-17T05:06:13.9171968+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>B3M1100_scale_step\B3M1100_scale.stp</FileName>
+      <SHA1>71BFCC7371EF0C8681FA18F2E84AC083BBE80B25</SHA1>
+      <FileSize>624714</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-10-17T05:06:13.9432257+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>B3M1100_scale_step\はじめにお読みください.txt</FileName>
+      <SHA1>64D34CB0F6E8BF5FD12D1CDF53AF1E67413F6B1D</SHA1>
+      <FileSize>1139</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-10-17T05:06:13.9598800+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>B3M1100_scale_step\サーボモータB3M-SC-1170-AB3M1100_scale.ipt</FileName>
+      <SHA1>BEFB2AC688685605E8953B7532D2249DBB1537CE</SHA1>
+      <FileSize>688640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-22T09:17:24.2190000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>OldVersions\パネル型スカラアーム.0031.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>421376</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T10:13:59.2790000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>アーム支え.ipt</FileName>
+      <SHA1>5C81663D268F2FDD910146C92D5ECDB8F70215E4</SHA1>
+      <FileSize>104960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-22T15:15:49.5300000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>アーム板.ipt</FileName>
+      <SHA1>78D6A9D20440A5BC7CE4FC9F4313DC2907B6AA99</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-07T04:59:10.2620000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>サーボモータ.iam</FileName>
+      <SHA1>9190A0D1FCC4DE90A52A9CF6B177705B3BC8A03A</SHA1>
+      <FileSize>295424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-22T09:16:50.3080000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>サーボモータ固定用.ipt</FileName>
+      <SHA1>01AE8F59D02164959E9FB190B45638DFB21B8CE4</SHA1>
+      <FileSize>158208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-22T13:23:47.3320000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>サーボモータ固定２軸目.ipt</FileName>
+      <SHA1>B3107A0DB462E9A7B5D12A5B86897D9979785DEC</SHA1>
+      <FileSize>161280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T08:38:54.7570000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>サーボ隠し.ipt</FileName>
+      <SHA1>68398F036E3C92A055CB938C1BB0A975B841491C</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-22T15:05:54.3710000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>379392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T14:46:57.8500000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>前カバー中盤.ipt</FileName>
+      <SHA1>F8938962F47986FEC04E83819E7DA02B5D2DD6B0</SHA1>
+      <FileSize>120320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T09:48:50.3790000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>前上下カバー.ipt</FileName>
+      <SHA1>3822B18E5FAFE7DCF699D45E54F0852F818F89FA</SHA1>
+      <FileSize>95232</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T07:18:49.0660000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>卒業研究パネル型スカラアーム.ipj</FileName>
+      <SHA1>A6E70BC93999C8991A3D08C4CCA9251A34B70CA6</SHA1>
+      <FileSize>10012</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-10-17T04:24:12.3333686+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>後ろカバー.ipt</FileName>
+      <SHA1>3346C85F7EF434316E541CC3118072488F49628F</SHA1>
+      <FileSize>100352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-23T14:01:54.0780000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>横長2ndフラットバー.ipt</FileName>
+      <SHA1>1F5E1495B2F2AE71FF586F77CB2A0186F3F6E417</SHA1>
+      <FileSize>115200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T04:14:34.3430000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>横長3rdフラットバー.ipt</FileName>
+      <SHA1>91EBC213B6F19E2151DB8DE1148A154B70668246</SHA1>
+      <FileSize>105472</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-23T14:01:54.0320000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>横長3rdフラットバー上.ipt</FileName>
+      <SHA1>89A8656E0BC029B26BA158E949160F64B33C8ECE</SHA1>
+      <FileSize>103424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-23T14:08:10.7110000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>横長フラットバー.ipt</FileName>
+      <SHA1>0063B630D1AD612F371A1A832BDC679572EFFB02</SHA1>
+      <FileSize>103936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-07T04:48:29.3710000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>縦長2ndフラットバー.ipt</FileName>
+      <SHA1>9476207C15669A3A29AFA55F90B2AF96458295BE</SHA1>
+      <FileSize>93696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-10-17T09:49:37.9570000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>縦長3rdフラットバー.ipt</FileName>
+      <SHA1>DEFF15FF471B17E373CCA38D1F96601AF516EAB9</SHA1>
+      <FileSize>91648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-23T15:22:15.8090000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>縦長フラットバー.ipt</FileName>
+      <SHA1>4B1496B428E1DF4563B4ECDE3C037BF447EC3981</SHA1>
+      <FileSize>122880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-23T14:01:54.1240000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>黒棒.ipt</FileName>
+      <SHA1>A71B6E815859C7DE710E63113FF9E64773753FDF</SHA1>
+      <FileSize>100352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T09:39:49.8680000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>１段目アーム.iam</FileName>
+      <SHA1>7870A3A46B6818D63F18A9B76699AF3B3F0435D5</SHA1>
+      <FileSize>276480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-24T04:09:10.9560000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
