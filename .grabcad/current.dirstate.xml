@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2022-11-26T01:09:32.1155149+09:00</UpdateTime>
+  <UpdateTime>2022-11-27T01:00:13.2961210+09:00</UpdateTime>
   <Standins>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\B3M1100_scale_step\OldVersions\サーボモータB3M-SC-1170-AB3M1100_scale.0003.ipt</FileName>
@@ -38,11 +38,25 @@
       <LastUpdated>2022-11-22T09:17:24.2190000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\OldVersions\パネル型スカラアーム.0039.iam</FileName>
+      <FileName>パネル型スカラアーム\OldVersions\サーボモータ固定用１軸目.0013.ipt</FileName>
       <SHA1>MODIFIED</SHA1>
-      <FileSize>424960</FileSize>
+      <FileSize>159744</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:29:22.8090000+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T06:06:41.4940000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\OldVersions\サーボモータ固定用２軸目.0016.ipt</FileName>
+      <SHA1>2F5A625DB5D7F9D6F192EB682579247DC6108FD9</SHA1>
+      <FileSize>162816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T05:30:00.7410000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\OldVersions\パネル型スカラアーム.0047.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>382464</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T06:06:41.9390000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\OldVersions\前カバー中盤.0013.ipt</FileName>
@@ -52,15 +66,22 @@
       <LastUpdated>2022-11-25T15:03:39.7851330+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
+      <FileName>パネル型スカラアーム\OldVersions\前カバー中盤左アーム固定.0015.ipt</FileName>
+      <SHA1>7D1665E1DC94AA1F100EFB60E3D846057E967010</SHA1>
+      <FileSize>123392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T05:12:35.0310000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
       <FileName>パネル型スカラアーム\OldVersions\横長3rdフラットバー.0003.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>91EBC213B6F19E2151DB8DE1148A154B70668246</SHA1>
       <FileSize>105472</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-11-25T15:03:39.7472912+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\OldVersions\横長3rdフラットバー上.0005.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>FB2775B017DE2B5CCB993A5BCF2462A2318146C8</SHA1>
       <FileSize>114688</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-11-25T15:28:43.4110000+00:00</LastUpdated>
@@ -73,11 +94,130 @@
       <LastUpdated>2022-11-25T15:03:39.6306260+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\OldVersions\１段目アーム.0006.iam</FileName>
-      <SHA1>B385641EA2CF39748B2ABF2FD7DACDD7995F21C1</SHA1>
-      <FileSize>224256</FileSize>
+      <FileName>パネル型スカラアーム\OldVersions\１段目アーム.0009.iam</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>297472</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:03:39.7287140+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T06:06:41.6880000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\OldVersions\サーボモータ固定用２軸目3mm.0017.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>164352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T13:20:03.9535062+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\OldVersions\サーボモータ固定用２軸目4mm.0017.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>164352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T13:20:06.0477188+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\OldVersions\サーボモータ固定用２軸目5mm.0017.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>164352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T13:20:05.5358589+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\AP_サーボモータ固定用２軸目2mm.gcode</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>1817831</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:55:58.6683341+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\AP_サーボモータ固定用２軸目3mm.gcode</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>2413484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:55:21.8641068+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\AP_サーボモータ固定用２軸目4mm.gcode</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>2451061</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:54:23.1712819+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\AP_サーボモータ固定用２軸目5mm.gcode</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>2947984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:50:59.3095510+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\AP_サーボモータ固定用２軸目すべて.gcode</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>12906694</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:49:18.9317113+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用１軸目2mm.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>174080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T07:38:28.2364918+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目2mm.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>164352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T07:38:35.4977835+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目2mm.stl</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>150484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:09:45.6639654+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目3mm.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>167936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T14:19:27.8760000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目3mm.stl</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>149284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:09:26.6477240+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目4mm.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>167424</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T14:23:13.3580000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目4mm.stl</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>147284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:09:08.9739431+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目5mm.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>166912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T14:40:00.8070000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\サーボ固定パーツ３Dプリンタ出力実験\サーボモータ固定用２軸目5mm.stl</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>179884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T15:08:34.9088573+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\サーボモータ.iam</FileName>
@@ -94,35 +234,42 @@
       <LastUpdated>2022-11-25T15:07:08.2624577+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\サーボモータ固定用.ipt</FileName>
-      <SHA1>2701D45D36F809B6337C032C76B7F47EC024E2B4</SHA1>
-      <FileSize>160256</FileSize>
+      <FileName>パネル型スカラアーム\サーボモータ固定用１軸目.ipt</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>174080</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:03:39.5244358+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T06:09:24.5170000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\サーボモータ固定２軸目.ipt</FileName>
-      <SHA1>3CF3939D1D79A0DF2FC421D9B9D6E5082DD68223</SHA1>
-      <FileSize>161280</FileSize>
+      <FileName>パネル型スカラアーム\サーボモータ固定用２軸目.ipt</FileName>
+      <SHA1>FFED53CC94943168C910C3D0D284C35F378AD95B</SHA1>
+      <FileSize>164352</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:03:39.4984968+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T05:31:45.6790000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\パネル型スカラアーム.iam</FileName>
       <SHA1>MODIFIED</SHA1>
-      <FileSize>447488</FileSize>
+      <FileSize>347136</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T16:09:30.9940000+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T16:00:11.8630000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\前カバー中盤.ipt</FileName>
-      <SHA1>9E5915A026E53975EAD06789BE348E1820D441EC</SHA1>
-      <FileSize>122880</FileSize>
+      <FileName>パネル型スカラアーム\前カバー中段右.ipt</FileName>
+      <SHA1>9964E1681BA0EC077958AD03CF22E4538CC46E82</SHA1>
+      <FileSize>103424</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:29:22.4110000+00:00</LastUpdated>
+      <LastUpdated>2022-11-25T15:29:22.3670000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\前上下カバー.ipt</FileName>
+      <FileName>パネル型スカラアーム\前カバー中盤左アーム固定.ipt</FileName>
+      <SHA1>BC34F4860DCD0CBBB431723BB78EB8EB41174050</SHA1>
+      <FileSize>123392</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-26T05:14:25.6930000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\前上下カバーサーボ隠し.ipt</FileName>
       <SHA1>3822B18E5FAFE7DCF699D45E54F0852F818F89FA</SHA1>
       <FileSize>95232</FileSize>
       <ProEVersionedName />
@@ -143,25 +290,32 @@
       <LastUpdated>2022-11-25T15:03:39.5852957+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\横長2ndフラットバー.ipt</FileName>
+      <FileName>パネル型スカラアーム\横長2ndフラットバー上.ipt</FileName>
       <SHA1>0B22FF03E183759FADB106EC06219BE2A68D1578</SHA1>
       <FileSize>130048</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-11-25T15:03:39.7091428+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\横長3rdフラットバー.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
-      <FileSize>114688</FileSize>
+      <FileName>パネル型スカラアーム\横長2ndフラットバー下.ipt</FileName>
+      <SHA1>0B22FF03E183759FADB106EC06219BE2A68D1578</SHA1>
+      <FileSize>130048</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T16:09:16.9390000+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T03:47:28.5414129+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\横長3rdフラットバー上.ipt</FileName>
-      <SHA1>MODIFIED</SHA1>
+      <SHA1>5C55987D1E5B3E754F8A75A2E0CB943219EBB816</SHA1>
       <FileSize>104448</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-11-25T16:09:30.7360000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>パネル型スカラアーム\横長3rdフラットバー下.ipt</FileName>
+      <SHA1>AE07E03D9FC04F0DB8E15BFE00E61EE8515CE686</SHA1>
+      <FileSize>114688</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-11-25T16:09:16.9390000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\横長フラットバー.ipt</FileName>
@@ -169,13 +323,6 @@
       <FileSize>103936</FileSize>
       <ProEVersionedName />
       <LastUpdated>2022-11-25T15:03:39.5454361+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
-      <FileName>パネル型スカラアーム\縦長2ndフラットバー.ipt</FileName>
-      <SHA1>9476207C15669A3A29AFA55F90B2AF96458295BE</SHA1>
-      <FileSize>93696</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:03:39.5661241+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\縦長3rdフラットバー.ipt</FileName>
@@ -192,18 +339,11 @@
       <LastUpdated>2022-11-25T15:03:39.6911189+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\黒棒.ipt</FileName>
-      <SHA1>9964E1681BA0EC077958AD03CF22E4538CC46E82</SHA1>
-      <FileSize>103424</FileSize>
-      <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:29:22.3670000+00:00</LastUpdated>
-    </GCSCMStandin>
-    <GCSCMStandin>
       <FileName>パネル型スカラアーム\１段目アーム.iam</FileName>
-      <SHA1>8243BBE78603ACA6F01270DF6E68E4329A4ED821</SHA1>
-      <FileSize>296960</FileSize>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>272896</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-11-25T15:29:22.5920000+00:00</LastUpdated>
+      <LastUpdated>2022-11-26T16:00:11.6430000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>.gitattributes</FileName>
