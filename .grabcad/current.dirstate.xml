@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UpdateTime>2022-12-15T01:00:05.0047669+09:00</UpdateTime>
+  <UpdateTime>2022-12-15T09:05:19.7754192+09:00</UpdateTime>
   <Standins>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\AIS2022\SC  0406CP2-part.ipt</FileName>
@@ -192,11 +192,11 @@
       <LastUpdated>2022-12-05T08:29:49.5730000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
-      <FileName>パネル型スカラアーム\OldVersions\パネル型スカラアームMISUMIアルミフレーム作成Ver.0035.iam</FileName>
+      <FileName>パネル型スカラアーム\OldVersions\パネル型スカラアームMISUMIアルミフレーム作成Ver.0038.iam</FileName>
       <SHA1>MODIFIED</SHA1>
-      <FileSize>820224</FileSize>
+      <FileSize>819712</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-12-14T15:11:17.2740000+00:00</LastUpdated>
+      <LastUpdated>2022-12-14T16:29:43.5720000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\OldVersions\ベアリング.0001.ipt</FileName>
@@ -593,9 +593,9 @@
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\パネル型スカラアームMISUMIアルミフレーム作成Ver.iam</FileName>
       <SHA1>MODIFIED</SHA1>
-      <FileSize>851456</FileSize>
+      <FileSize>838144</FileSize>
       <ProEVersionedName />
-      <LastUpdated>2022-12-14T16:00:02.3130000+00:00</LastUpdated>
+      <LastUpdated>2022-12-15T00:05:17.3210000+00:00</LastUpdated>
     </GCSCMStandin>
     <GCSCMStandin>
       <FileName>パネル型スカラアーム\ベアリング.ipt</FileName>

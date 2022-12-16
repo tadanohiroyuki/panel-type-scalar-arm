@@ -1,5 +1,5 @@
 ﻿
-JP   CADファイルのリクエスト：Your download from the 14.12.2022 on PARTcommunity/PARTserver/3Dfindit.com:
+JP   CADファイルのリクエスト：Your download from the 16.12.2022 on PARTcommunity/PARTserver/3Dfindit.com:
 
        お客様へ
 
@@ -7,7 +7,7 @@ JP   CADファイルのリクエスト：Your download from the 14.12.2022 on PA
 
        
 	   
-       AIS2022, HFSF5-2040-180-LMH-RMH, HFSF5-2040-180-LMH-RMH.ipt
+       AIS2022, HFS5-2040-320-TPW-Z5-YA42.5, HFS5-2040-320-TPW-Z5-YA42_5.ipt
 
        ご利用方法：
 
